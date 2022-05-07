@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with back end and APIs 
 - 💬 Ask me about ...
 - 📫 How to reach me:[Linkin](https://www.linkedin.com/in/nart-shumaff-5308371b3/) 
-<--
-- ⚡ Fun fact: ...
---!>
+<!-- - ⚡ Fun fact: ...
+-->
 
